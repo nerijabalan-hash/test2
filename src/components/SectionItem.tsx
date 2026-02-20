@@ -722,7 +722,7 @@ export function SectionItem({
   const saveEditSlide = () => {
     if (!editingSlide) return;
 
-    const updatedSlides = section.slides.map(s => {
+    const updatedSlides: SlideConfig[] = section.slides.map(s => {
       if (s.id !== editingSlide.id) return s;
 
       if (editDrawerTab === 'ai') {
@@ -1011,7 +1011,6 @@ export function SectionItem({
                   <Switch
                     checked={section.aiExpansion || false}
                     onChange={(checked) => onUpdateAIExpansion?.(checked)}
-                    size="small"
                   />
                 </div>
               )}
