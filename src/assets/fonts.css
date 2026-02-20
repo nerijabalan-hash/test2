@@ -1,0 +1,29 @@
+/* Open Sans variable font for body text */
+@font-face {
+  font-display: swap;
+  font-family: 'Open Sans';
+  font-stretch: 35% 100%;
+  font-style: normal;
+  font-weight: 300 800;
+  src: url('https://cdn.templafy.com/fonts/OpenSans-VariableFont.ttf')
+    format('truetype');
+}
+
+/* Garant font for headings */
+@font-face {
+  font-display: swap;
+  font-family: Garant;
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://cdn.templafy.com/fonts/Garant-SemiBold-v3.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Garant;
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://cdn.templafy.com/fonts/Garant-Regular-v2.woff2')
+    format('woff2');
+}

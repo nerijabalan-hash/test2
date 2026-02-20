@@ -1,0 +1,4553 @@
+[
+  {
+    "name": "Slides",
+    "rootFolders": [
+      {
+        "name": "Slides",
+        "assetCount": 2,
+        "folders": [
+          {
+            "name": "Consultant .Bios",
+            "assetCount": 39
+          },
+          {
+            "name": "Firm-wide Insights (CLI)",
+            "assetCount": 7
+          },
+          {
+            "name": "Process, Pricing and Fees",
+            "assetCount": 0,
+            "folders": [
+              {
+                "name": "Search Process Slides",
+                "assetCount": 5
+              },
+              {
+                "name": "Standard (33.33%) Search Fee",
+                "assetCount": 2
+              },
+              {
+                "name": "Board Search",
+                "assetCount": 3
+              },
+              {
+                "name": "Fixed Fee with Pickup",
+                "assetCount": 2
+              },
+              {
+                "name": "Fixed Fee without Pickup",
+                "assetCount": 2
+              },
+              {
+                "name": "Presearch",
+                "assetCount": 3
+              },
+              {
+                "name": "Special Project",
+                "assetCount": 2
+              },
+              {
+                "name": "Off limits",
+                "assetCount": 1
+              }
+            ]
+          },
+          {
+            "name": "Brand Master",
+            "assetCount": 0,
+            "folders": [
+              {
+                "name": "Agenda Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Bio and Org Chart Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Credentials Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Teal Theme Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Gray Theme Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Map Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Blue Theme Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Red Theme Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Purple Theme Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Covers Slides",
+                "assetCount": 1
+              },
+              {
+                "name": "Closing Slides",
+                "assetCount": 1
+              }
+            ]
+          },
+          {
+            "name": "Capabilities",
+            "assetCount": 0,
+            "folders": [
+              {
+                "name": "Assessment and Development",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Credentials",
+                    "assetCount": 1,
+                    "folders": [
+                      {
+                        "name": "01. Executive Assessment",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "01. Selection Assessment",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "02. Development Assessment",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "03. Large Scale Assessment",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "04. C-Suite Succession",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Americas",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "APAC",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "EMEA",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "02. Executive Development",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "01. Executive Transition",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "03. Executive Coaching",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "04. Top Team Performance",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "02. Successor Development",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "05. Executive Mentoring",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "06. M\u0026A Advisory",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Americas",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "APAC",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "EMEA",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "07. Private Capital",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "01. Fund/Investment Firm",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "02. Portfolio Company",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "03. CEO Succession",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Americas",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "APAC",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "EMEA",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "05. Strategy Decode and Activation",
+                        "assetCount": 1,
+                        "folders": [
+                          {
+                            "name": "02. Inclusion and Culture",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "01. Strategy \u0026 Alignment",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "02. Inclusive Recruitment",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "03. Inclusive Leadership Advisory",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "01. Organizational Design",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Americas",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "APAC",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "EMEA",
+                                "assetCount": 1
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Team Slides",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "Case Studies",
+                    "assetCount": 1,
+                    "folders": [
+                      {
+                        "name": "01. Healthcare",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "02. Financial Services",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "03. Industrial \u0026 Natural Resources",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "04. Consumer",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "05. Technology",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "06. Social Impact \u0026 Education",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Capability Overview",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "Leadership Portrait",
+                    "assetCount": 1
+                  }
+                ]
+              },
+              {
+                "name": "Customer Activation \u0026 Growth",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Practice Overview",
+                    "assetCount": 3
+                  },
+                  {
+                    "name": "Chief Marketing Officer",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Insights",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Leadership Span",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Sliders",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Lightning Strikes",
+                        "assetCount": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chief Commercial Officers",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Insights",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Sliders",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Leadership Span",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Lightning Strikes",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chief Sales Officer",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Insights",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Leadership Span",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Lightning Strikes",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Sliders",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chief Customer Officer",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Sliders",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Leadership Span",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Lightning Strikes",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chief Customer Experience Officer",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Insights",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Sliders",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Leadership Span",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Lightning Strike",
+                        "assetCount": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chief Revenue Officer",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Sliders",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Lightning Strikes",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Leadership Span",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chief Brand Officer",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Sliders",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chief Growth Officer",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Sliders",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Leadership Span",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Lightning Strikes",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chief Digital Officer",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Leadership Span",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Lightning Strike",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Sliders",
+                        "assetCount": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Additional PNB Materials",
+                    "assetCount": 1,
+                    "folders": [
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Competency Sliders",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategy",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Recent PNB Examples",
+                        "assetCount": 5
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Financial Officers",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Insights",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Accounting",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Divisional CFO",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "FP\u0026A",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Investor Relations",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Tax",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Audit",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Corporate Development",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "ESG \u0026 Sustainability Finance",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Treasury",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "M\u0026A",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Audit Committee Chair",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "CFO",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "America",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "CFO Market Trends",
+                                "assetCount": 2
+                              },
+                              {
+                                "name": "Private Equity CFO Insights",
+                                "assetCount": 6
+                              },
+                              {
+                                "name": "Public Company CFO Insights",
+                                "assetCount": 5
+                              },
+                              {
+                                "name": "Pre-IPO",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Europe",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Public Company",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Private Capital",
+                                "assetCount": 2
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Global",
+                            "assetCount": 9
+                          },
+                          {
+                            "name": "Asia Pacific",
+                            "assetCount": 5
+                          }
+                        ]
+                      },
+                      {
+                        "name": "FOP General Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Global",
+                            "assetCount": 10
+                          },
+                          {
+                            "name": "America",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "Europe",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Credentials",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Global",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Europe",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "UK",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Asia Pacific",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "America",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Canada",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "US",
+                            "assetCount": 2
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Case Studies",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "America",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Europe",
+                        "assetCount": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Human Resources Officers",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Case Studies",
+                    "assetCount": 2
+                  },
+                  {
+                    "name": "Competencies",
+                    "assetCount": 2
+                  },
+                  {
+                    "name": "Insights",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Compensation, Benefits, and Rewards",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "HR Business Partners / Regional HR leaders",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Next-gen HR leaders",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Talent Management / Acquisition",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "For PNBs",
+                            "assetCount": 3
+                          },
+                          {
+                            "name": "Talent Disrupted paper 2022",
+                            "assetCount": 2
+                          }
+                        ]
+                      },
+                      {
+                        "name": "HR Organization Structure Advice and Examples",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "Employee \u0026 Labor Relations",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "HR Technology and Systems roles",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Chief HR Officer / Chief People Officer",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "US",
+                            "assetCount": 6
+                          },
+                          {
+                            "name": "EMEA",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "APAC",
+                            "assetCount": 5
+                          },
+                          {
+                            "name": "Global trends",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Family Holdings",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "CEO Succession",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "High Growth CHROs",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Private Equity",
+                                "assetCount": 5
+                              },
+                              {
+                                "name": "CHRO Hybrid Roles",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Compensation insights",
+                                "assetCount": 3
+                              },
+                              {
+                                "name": "CHRO Turnover Index",
+                                "assetCount": 2,
+                                "folders": [
+                                  {
+                                    "name": "Sector insights",
+                                    "assetCount": 1
+                                  },
+                                  {
+                                    "name": "Index insights",
+                                    "assetCount": 1
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Transition support",
+                                "assetCount": 2
+                              },
+                              {
+                                "name": "CHRO of the future",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Law Firms",
+                                "assetCount": 1
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Credentials",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "HR Credentials - Global",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "HR Credentials - Americas",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "HR Credentials - EMEA",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "HR Credentials - APAC",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Practice Overview",
+                    "assetCount": 0
+                  },
+                  {
+                    "name": "TAR and search strategy slides",
+                    "assetCount": 0
+                  }
+                ]
+              },
+              {
+                "name": "Legal, Compliance \u0026 Govt. Affairs",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Case Studies",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "Competencies",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "Team Slides",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "Insights",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Company Secretary",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Chief Compliance Officer",
+                        "assetCount": 4
+                      },
+                      {
+                        "name": "Govt. \u0026 Reg. Affairs",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Intellectual Property",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Litigation Officer",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "General Counsel / Chief Legal Officer",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "EMEA",
+                            "assetCount": 3
+                          },
+                          {
+                            "name": "Global insights",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "LRC Insights - Deputy GC",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "LRC Insights - Data Privacy \u0026 Cyber Tech",
+                                "assetCount": 2
+                              },
+                              {
+                                "name": "LRC Insights - GC Development Guide",
+                                "assetCount": 2
+                              },
+                              {
+                                "name": "LRC Insights - GC Org Structure Guide",
+                                "assetCount": 3
+                              },
+                              {
+                                "name": "LRC Insights - General GC Role Insights",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "LRC Insights - Litigation Insights",
+                                "assetCount": 0
+                              },
+                              {
+                                "name": "First-time general counsel advice",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "US",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Portfolio Company General Counsels",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Fortune 500 GC 2024 Report",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Fortune 500 GCs 2025",
+                                "assetCount": 1,
+                                "folders": [
+                                  {
+                                    "name": "Sector analysis - Fortune 500 GCs",
+                                    "assetCount": 1
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Prior Fortune 500 reports",
+                                "assetCount": 0,
+                                "folders": [
+                                  {
+                                    "name": "Fortune 500 - Sector Agnostic",
+                                    "assetCount": 1
+                                  },
+                                  {
+                                    "name": "Fortune 500 - By Sector",
+                                    "assetCount": 1
+                                  },
+                                  {
+                                    "name": "Fortune 500 vs. High Growth Tech GCs",
+                                    "assetCount": 2
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "General Counsel compensation",
+                            "assetCount": 2
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Credentials",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "LRC Credentials - Global",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "LRC Credentials - Americas",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "LRC Credentials - EMEA",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "LRC Credentials - APAC",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "LRC Creds - Compliance, CoSec, Risk, IP",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "LRC Creds - PE, Portfolio Company",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "LRC Creds - Govt. and Reg. Affairs",
+                        "assetCount": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Sustainability \u0026 ESG",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Practice overviews",
+                    "assetCount": 2
+                  },
+                  {
+                    "name": "Insights",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Chief Sustainability Officer insights",
+                        "assetCount": 6,
+                        "folders": [
+                          {
+                            "name": "CSO Survey",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "General Sustainable Leadership insights",
+                        "assetCount": 8,
+                        "folders": [
+                          {
+                            "name": "Divides \u0026 Dividends 2023",
+                            "assetCount": 1,
+                            "folders": [
+                              {
+                                "name": "Industry Slides",
+                                "assetCount": 8
+                              }
+                            ]
+                          },
+                          {
+                            "name": "EBITDA of Decarbonization",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Commitment to Sustainability Series",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Powering the Shift - Decarbonizing Hard-to-Abate",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Sustainable Boards insights",
+                        "assetCount": 4
+                      },
+                      {
+                        "name": "RRA Sustainability Report",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Credentials",
+                    "assetCount": 12
+                  },
+                  {
+                    "name": "Case studies",
+                    "assetCount": 4
+                  }
+                ]
+              },
+              {
+                "name": "Board \u0026 CEO Advisory Partners",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Non-Executive Director",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "EMEA",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "UK",
+                            "assetCount": 4
+                          },
+                          {
+                            "name": "Americas",
+                            "assetCount": 7
+                          },
+                          {
+                            "name": "APAC",
+                            "assetCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 3
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Board Effectiveness",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 8
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CEO",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 1,
+                        "folders": [
+                          {
+                            "name": "Retail/CPG",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Healthcare",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "FS",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "Tech",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Long-term CEO succession template",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Chair",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 4
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 11
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Pre-IPO Board Build",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Credentials",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "Case Study",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Advisory Board",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Family-owned business",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 3
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Corporate Affairs",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "CA Insights",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Corporate Communications Officers",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Corporate Affairs Officers",
+                        "assetCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CA Competencies",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Corporate Communications Officers",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Corporate Affairs Officers",
+                        "assetCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CA Credentials",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Corporate Communications Officers",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Corporate Affairs Officers",
+                        "assetCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CA Case Studies",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Corporate Communications Officers",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Corporate Affairs Officers",
+                        "assetCount": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Operations and Supply Chain Officers",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Insights",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Manufacturing",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Operations",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "OSCO",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Procurement",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Supply Chain",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Credentials",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "APAC",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Facilities \u0026 Infrastructure",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Logistics",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Manufacturing",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Operations",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "OSCO",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Procurement",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Supply Chain",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Case Studies",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Operations",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Supply Chain",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Practice overview",
+                    "assetCount": 1
+                  }
+                ]
+              },
+              {
+                "name": "Technology Officers",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Practice Overview",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "Insights",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Chief Information Officer",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "CTO and Engineering",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Chief Digital Officer",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Top Tech Officer",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Data \u0026 Analytics",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "AI",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Cybersecurity",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Product",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Other TOP Roles",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Architecture",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Infrastructure and Cloud",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Tech \u0026 Ops",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Tech PE Operating Partners",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Organizational Structures",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Credentials",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Global",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Americas",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "EMEA",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "APAC",
+                        "assetCount": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Case Studies",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "TOP Case Studies by Function",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "TOP Case Studies by Industry",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "TOP Case Studies - Team Build",
+                        "assetCount": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Capabilities Overview",
+                "assetCount": 1
+              },
+              {
+                "name": "Family Enterprise Advisory",
+                "assetCount": 1,
+                "folders": [
+                  {
+                    "name": "Credentials",
+                    "assetCount": 0
+                  },
+                  {
+                    "name": "Case studies",
+                    "assetCount": 0
+                  },
+                  {
+                    "name": "Insights",
+                    "assetCount": 0
+                  },
+                  {
+                    "name": "Practice Overview",
+                    "assetCount": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Firm-wide GTM Themes",
+            "assetCount": 0,
+            "folders": [
+              {
+                "name": "Family Business",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Case Studies",
+                    "assetCount": 3
+                  },
+                  {
+                    "name": "Credentials",
+                    "assetCount": 2
+                  },
+                  {
+                    "name": "Insights",
+                    "assetCount": 3
+                  }
+                ]
+              },
+              {
+                "name": "RRA Engage",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Search",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "Pure Consulting",
+                    "assetCount": 1
+                  }
+                ]
+              },
+              {
+                "name": "Artificial Intelligence",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "AI Transformation (Firm Theme)",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "AI Transformation Insights",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "Case Studies of Transformation",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "AI Function (Chief AI Officer)",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "AI Credentials \u0026 Case Studies",
+                        "assetCount": 0
+                      },
+                      {
+                        "name": "AI Functional Insights",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "AI PE Operating Partner Insights",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "AI Infrastructure (Software \u0026 Hardware)",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "AI Infrastructure Insights",
+                        "assetCount": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "CEO Transitions",
+                "assetCount": 1
+              }
+            ]
+          },
+          {
+            "name": "Asia Pacific",
+            "assetCount": 0,
+            "folders": [
+              {
+                "name": "Quick Start BD PNB Template",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "01. Covers and Sections",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "02. About RRA",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "03. APAC Team Overview",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "04. Search Process",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "05. Consulting Services",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "06. Target Universe",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "07. Competency Chart",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "08. Fees \u0026 Terms",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "09. Localized Bios",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "01. APAC Bios - Team slide template",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "02. APAC Bios - Global \u0026 APAC teams",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "03. APAC Bios- Consultants\u2013Greater China (Chinese)",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "04. APAC Bios - Consultants \u2013 Japan (Japanese)",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "05. APAC Bios - Knowledge people",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "06. APAC Bios - Research team \u2013 Australia",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "07. APAC Bios - Research team \u2013 Greater China",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "08. APAC Bios - Research team \u2013 Japan",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "09. APAC Bios - Research team \u2013 Singapore",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "10. APAC Bios - Chinese - Global consultants",
+                        "assetCount": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "APAC PNB - Case Studies",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "APAC Case Study - FS",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Case Study - Technology",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Case Study - Healthcare",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Case Study - Consumer",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Case Study - INR",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Case Study - SIE",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Case Study - Private Capital",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Case Study - BCAP",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Case Study - Other Capabilities",
+                    "assetCount": 1
+                  }
+                ]
+              },
+              {
+                "name": "APAC PNB - Credentials",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "APAC Creds - BCAP- Board focus",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Creds - By Region",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Creds - Consumer",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Creds - Healthcare",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Creds - FS",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Creds - SIE",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Creds - INR",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Creds - Private Capital",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Creds - Technology",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Creds - Other Capabilities",
+                    "assetCount": 1
+                  }
+                ]
+              },
+              {
+                "name": "APAC PNB - Market Insights",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "APAC Insight - By Region",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Insights Master",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Insight - INR",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Insight - FS",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Insight - Technology",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Insight - Healthcare",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Insight - Consumer",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Insight - Private Capital",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Insight - BCAP",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Insight - Other Capabilities",
+                    "assetCount": 1
+                  }
+                ]
+              },
+              {
+                "name": "APAC PNB - Practice Overview",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "APAC Sector overview - FS",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Sector overview - Healthcare",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Sector overview - INR",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Sector overview - Consumer",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Sector overview - Technology",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Sector overview - SIE",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Sector overview - Private Capital",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Sector overview - BCAP",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "APAC Sector overview - Other Capabilities",
+                    "assetCount": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Industries",
+            "assetCount": 0,
+            "folders": [
+              {
+                "name": "Consumer",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Consumer Sector-Wide Content",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Consumer Sector Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "ESG",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "ESG \u0026 Sustainability",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Global Leadership Monitor Consumer Cut",
+                            "assetCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Internal Calls",
+                        "assetCount": 0
+                      },
+                      {
+                        "name": "Consumer Germany",
+                        "assetCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Consumer Digital Media",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Competency Slides",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Archetypes",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Trends",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Consumer Packaged Goods",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Competency Sliders",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Archetypes",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Trends",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Leisure \u0026 Hospitality",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Competency Sliders",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Archetypes",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Trends",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Retail, Luxury \u0026 Omni-Channel",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overviews",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Competency Sliders",
+                        "assetCount": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Financial Services",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Financial Services Sector-Wide Content",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "FS Sector-Wide Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "FS Sector-Wide Credentials",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "FS Sector Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "FS Other Common Templates",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "FS Sector-Wide Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Financial Services Audit Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Compliance Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Data Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Operations Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Technology Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Legal Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Sustainability Insigh",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services General Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Chng Mgmt Com Insight",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Succession Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "From the Great Resignation",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "H2 2023 GLM Cut by Region",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "H2 2023 GLM Cut by Sector",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services AI Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "FS Functional Perspective Insight",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "H1 2024 GLM",
+                            "assetCount": 3
+                          },
+                          {
+                            "name": "Financial Services Risk Insights",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "FS Sector Process Specifics",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Financial Services Client References",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Dual Track Process",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Mapping",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Assessment (SREA)",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Financial Services Fee Structure",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Financial Services SparkNotes",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Investment Management",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Credentials",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies and Competencies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "IM Distribution Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "IM ESG Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "IM Family Office Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "IM General Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "IM Infrastructure Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "IM Secondaries Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "IM Operations Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "IM AI Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "IM H1 2024 GLM (AI, External Threats, Preparedness",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Inside the Mind of the Family Office Leader",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Insurance",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Insurance Claims Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance General Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance Insurtech Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance Sustainability Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance Technology Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance Actuary Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance Benefits Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance H1 2024 GLM (AI, External Threats, Prepa",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance RRA_P\u0026C CEO Succession",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance CEOs as Conductors of Change_2025",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insurance Corporate Development Insights",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Consumer \u0026 Commercial Financial Services",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Credentials",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Our Understanding",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Your RRA Team",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Client References",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "CCFS Audit Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "CCFS CAG Insights",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "CCFS CEO Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "CCFS CFO Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "CCFS Digital Disruption and FinTech",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "CCFS General Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "CCFS Innovative Leadership Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "CCFS Private Capital Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "CCFS Strategy \u0026 Corp Dev Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "CCFS Tech \u0026 Ops Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "CCFS US Credit Union Regional Banking",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "CCFS Wealth Management",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "CCFS H1 2024 GLM (AI, External Threats, Preparedne",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Search Strategy",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Global Banking \u0026 Markets",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Credentials",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "GBM General Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Banking AI Insights",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "FinTech",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Credentials",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "FinTech Payments Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "FinTech Exchanges Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "FinTech Innovation Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "FinTech CEO Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "FinTech Technology Leadership Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Fintech Data Consulting Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Fintech Sales Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Fintech Cyber Security Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Fintech Blockchain Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "FinTech General Insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "FinTech Artificial Intelligence - The AI Imperativ",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "FinTech Payments Insights India Mar 2024",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Fintech H1 2024 GLM (AI, External Threats, Prepare",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Real Estate",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Real Estate Themed Section Dividers",
+                        "assetCount": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Healthcare",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Healthcare Industry",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Sector Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Healthcare CEO Succession",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Healthcare DE\u0026I",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Healthcare Sustainability",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Healthcare NewCo (spin-off, carve-out)",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Healthcare APAC",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Healthcare PE",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Healthcare Board",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Healthcare Executive Roles",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Pharmaceuticals \u0026 Biotechnology",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Candidate Competencies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Medical Technology",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Candidate Competencies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategy",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Healthcare services",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 36
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 10
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 35
+                      },
+                      {
+                        "name": "DEI",
+                        "assetCount": 8
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "HCS AMC Credentials",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "HCS Board Credentials",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "HCS Regional Creds",
+                            "assetCount": 17
+                          },
+                          {
+                            "name": "HCS Private Equity Credentials",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "HCS Payer Credentials",
+                            "assetCount": 4
+                          },
+                          {
+                            "name": "HCS Functional Creds",
+                            "assetCount": 28
+                          },
+                          {
+                            "name": "HCS Non-Profit Credentials",
+                            "assetCount": 3
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Competency Sliders and Search Strategies",
+                        "assetCount": 4
+                      },
+                      {
+                        "name": "RRA Relationships",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "HealthTech",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Quick Start PNB",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Competencies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Pharma Services",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Candidate Competencies",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "APAC Insights and Case Studies",
+                    "assetCount": 1
+                  }
+                ]
+              },
+              {
+                "name": "Industrial \u0026 Natural Resources",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Automotive \u0026 Mobility",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategy",
+                        "assetCount": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Process Industries",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Agribusiness",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Chemicals, Materials \u0026 Packaging",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "Mining \u0026 Metals",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Agribusiness",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Chemicals, Materials \u0026 Packaging",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Mining \u0026 Metals",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Agribusiness",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Chemicals \u0026 Materials",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Mining \u0026 Metals",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Building Products \u0026 Construction Materials",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Paper, Packaging, \u0026 Containers",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Agribusiness",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Chemicals, Materials \u0026 Packaging",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "Mining \u0026 Metals",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Search Strategy",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Agribusiness",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Chemicals, Materials \u0026 Packaging",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Mining \u0026 Metals",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Global Energy",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1,
+                        "folders": [
+                          {
+                            "name": "Energy Transition \u0026 Renewables",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Oil \u0026 Gas",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Power \u0026 Utilities",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Energy Transition \u0026 Renewables",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Oil \u0026 Gas",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Power \u0026 Utilities",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Energy Practice",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Energy Transition \u0026 Renewables",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Oil \u0026 Gas",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Power \u0026 Utilities",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Energy Transition \u0026 Renewables",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Oil \u0026 Gas",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Power \u0026 Utilities",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Search Strategy",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Energy Transition \u0026 Renewables",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Oil \u0026 Gas",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Power \u0026 Utilities",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Industrial Goods",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Aerospace \u0026 Defense",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Manufacturing \u0026 Capital Equipment",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Aerospace \u0026 Defense",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Manufacturing \u0026 Capital Equipment",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Aerospace \u0026 Defense",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Manufacturing \u0026 Capital Equipment",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Aerospace \u0026 Defense",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "Manufacturing \u0026 Capital Equipment",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Search Strategy",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Aerospace \u0026 Defense",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Manufacturing \u0026 Capital Equipment",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Industrial Services \u0026 Infrastructure",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Engineering \u0026 Construction",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Industrial Services",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Transportation \u0026 Logistics",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Engineering, Construction \u0026 Services",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Industrial Services",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Transportation \u0026 Logistics",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Engineering, Construction \u0026 Services",
+                            "assetCount": 5
+                          },
+                          {
+                            "name": "Industrial Services",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "Transportation \u0026 Logistics",
+                            "assetCount": 2
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Engineering, Construction \u0026 Services",
+                            "assetCount": 3
+                          },
+                          {
+                            "name": "Industrial Services",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Transportation and Logistics",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Search Strategy",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Engineering \u0026 Construction Services",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Industrial Services",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Transportation and Logistics",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "INR Sector-Wide Content",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "INR Sector Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "INR Sector-Wide Search Strategy",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "INR Sector-Wide Case Studies",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "INR Corporate Officers",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR Sustainability",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR Tech",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR BCAP",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "INR L\u0026S",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "INR Private Equity",
+                            "assetCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "INR Sector-Wide Credentials",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "INR BCAP",
+                            "assetCount": 4
+                          },
+                          {
+                            "name": "INR Corporate Officers",
+                            "assetCount": 13
+                          },
+                          {
+                            "name": "INR L\u0026S",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR Private Equity",
+                            "assetCount": 4
+                          },
+                          {
+                            "name": "INR Sustainability",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR Tech",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "INR Specialized Credentials",
+                            "assetCount": 3
+                          }
+                        ]
+                      },
+                      {
+                        "name": "INR Sector-Wide Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "INR Corporate Officers",
+                            "assetCount": 8
+                          },
+                          {
+                            "name": "INR Private Equity",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR Sustainability",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR Tech",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR Family-Controlled Business",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR BCAP",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "INR L\u0026S",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "INR Financial Officers",
+                            "assetCount": 1
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Social Impact \u0026 Education",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "SI\u0026E Sector-Wide Content",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "SI\u0026E Sector Overview",
+                        "assetCount": 13
+                      },
+                      {
+                        "name": "SI\u0026E Sector-wide Credentials",
+                        "assetCount": 31,
+                        "folders": [
+                          {
+                            "name": "Location specific credentials",
+                            "assetCount": 39,
+                            "folders": [
+                              {
+                                "name": "Local and Regional Impact",
+                                "assetCount": 5
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Functional credentials",
+                            "assetCount": 1,
+                            "folders": [
+                              {
+                                "name": "DEI Officers",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Development and Fundraising Officers",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Financial Officers",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Government Affairs and Advocacy Officers",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Legal and Compliance Officers",
+                                "assetCount": 2
+                              },
+                              {
+                                "name": "HR Officers",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Marketing and Communications Officers",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Operating Offiers",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Program and Strategy Officers",
+                                "assetCount": 3
+                              },
+                              {
+                                "name": "Technology Officers",
+                                "assetCount": 2
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Advisory credentials",
+                            "assetCount": 5
+                          },
+                          {
+                            "name": "Board and CEO credentials",
+                            "assetCount": 9
+                          },
+                          {
+                            "name": "Colleagues\u0027 pre-RRA credentials",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "SI\u0026E Sector-wide Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "CEO Insights",
+                            "assetCount": 3,
+                            "folders": [
+                              {
+                                "name": "CEO Onboarding",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "CEO and Founder Transition Playbook",
+                                "assetCount": 2
+                              },
+                              {
+                                "name": "CEO Succession Planning",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Board Insights",
+                            "assetCount": 2,
+                            "folders": [
+                              {
+                                "name": "Board Compensation Insights",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Right Sizing the Board",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Governance in social impact",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Who Sits at the Boardroom Table - US Board Study",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Functional Insights",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Development  and Fundraising Officers Insights",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Legal and Compliance Officers Insights",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Marketing and Communications Officers Insights",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Financial Officers Insights",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "HR Officers Insights",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Operating Officers Insights",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "DEI Insights",
+                                "assetCount": 2
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Thematic Insights",
+                            "assetCount": 5,
+                            "folders": [
+                              {
+                                "name": "COVID-related Insights",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "What If They Mean It - Corporate Partnerships",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "DEI Insights",
+                            "assetCount": 3
+                          }
+                        ]
+                      },
+                      {
+                        "name": "SI\u0026E Non-Consultant Biographies",
+                        "assetCount": 12
+                      },
+                      {
+                        "name": "SI\u0026E Sector-wide Case Studies",
+                        "assetCount": 14
+                      },
+                      {
+                        "name": "PNB Templates",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Best practice PNBs",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Advisory",
+                            "assetCount": 5
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Arts \u0026 Culture",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice overview",
+                        "assetCount": 5,
+                        "folders": [
+                          {
+                            "name": "Templates",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 27,
+                        "folders": [
+                          {
+                            "name": "Chief Digital Officers",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "UK Arts Boards",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 13,
+                        "folders": [
+                          {
+                            "name": "Placement Highlights",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "Niche Credentials",
+                            "assetCount": 2
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Case studies",
+                        "assetCount": 12
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Education",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 2,
+                        "folders": [
+                          {
+                            "name": "University president search process",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Generic search process",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 17,
+                        "folders": [
+                          {
+                            "name": "Route to the Top",
+                            "assetCount": 18
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 21,
+                        "folders": [
+                          {
+                            "name": "RRA Relationship with Institutions",
+                            "assetCount": 28
+                          },
+                          {
+                            "name": "Higher ed credentials by geography",
+                            "assetCount": 6
+                          },
+                          {
+                            "name": "Functional roles",
+                            "assetCount": 15
+                          },
+                          {
+                            "name": "Non-US",
+                            "assetCount": 4
+                          },
+                          {
+                            "name": "Deans",
+                            "assetCount": 8
+                          },
+                          {
+                            "name": "K-12 Education",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "For-profit",
+                            "assetCount": 5
+                          },
+                          {
+                            "name": "Think tanks",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Case studies",
+                        "assetCount": 14
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Global Development, Advocacy \u0026 Philanthropy",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 4,
+                        "folders": [
+                          {
+                            "name": "Global Development",
+                            "assetCount": 6
+                          },
+                          {
+                            "name": "Philanthropy",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "Advocacy",
+                            "assetCount": 2
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Search Strategies and Competency slides",
+                        "assetCount": 7
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Global Development",
+                            "assetCount": 38
+                          },
+                          {
+                            "name": "Philanthropy",
+                            "assetCount": 15
+                          },
+                          {
+                            "name": "Advocacy",
+                            "assetCount": 14
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "NGO CFO insights",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Global Development",
+                            "assetCount": 14
+                          },
+                          {
+                            "name": "Philanthropy",
+                            "assetCount": 12
+                          },
+                          {
+                            "name": "Advocacy",
+                            "assetCount": 7
+                          },
+                          {
+                            "name": "Impact Investing",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Relationship with clients credentials",
+                            "assetCount": 23
+                          },
+                          {
+                            "name": "Global Development",
+                            "assetCount": 25,
+                            "folders": [
+                              {
+                                "name": "Location Specific",
+                                "assetCount": 6
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Philanthropy",
+                            "assetCount": 9
+                          },
+                          {
+                            "name": "Advocacy",
+                            "assetCount": 21
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Public Sector",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 5
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 18
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Trade \u0026 Professional Associations",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 4
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 9
+                      },
+                      {
+                        "name": "Case studies",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Process Specifics",
+                        "assetCount": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Private Capital",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Funds",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Competencies",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 42
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 22
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Portfolio Companies",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 33
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 10
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Industry-Wide Content",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 9
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 7
+                      },
+                      {
+                        "name": "Industry Overview",
+                        "assetCount": 2
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Technology",
+                "assetCount": 0,
+                "folders": [
+                  {
+                    "name": "Tech Sector",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 3
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "DEI",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "ESG",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "GLM",
+                            "assetCount": 4
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Private Equity",
+                            "assetCount": 2
+                          },
+                          {
+                            "name": "VC \u0026 Growth",
+                            "assetCount": 2
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Business \u0026 Professional Services",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Consulting",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "1. Partnering with RRA",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "2. Insights \u0026 role understanding",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "3. Proposed strategy \u0026 search process",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "5. Appendix: Team, Sector, About RRA",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "4. Select relevant experience",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Creds",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Case studies",
+                                "assetCount": 0
+                              }
+                            ]
+                          },
+                          {
+                            "name": "**Full sample deck**",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Tech Services",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "1. Partnering with RRA",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "2. Insights \u0026 role understanding",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "3. Proposed strategy \u0026 search process",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "4. Select relevant experience",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Creds",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Case studies",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "5. Appendix: Team, Sector, About RRA",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "**Full sample deck**",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Law",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "1. Partnering with RRA",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "2. Insights \u0026 role understanding",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "3. Proposed strategy \u0026 search process",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "4. Select relevant experience",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "5. Appendix: Team, Sector, About RRA",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "**Full sample deck**",
+                            "assetCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Outsourcing",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "1. Partnering with RRA",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "2. Insights \u0026 role understanding",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "3. Proposed strategy \u0026 search process",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "4. Select relevant experience",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "5. Appendix: Team, Sector, About RRA",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "**Full sample deck**",
+                            "assetCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "**Archived - Sept 2025**",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Practice Overview",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "General BPS",
+                                "assetCount": 0
+                              },
+                              {
+                                "name": "Tech Services",
+                                "assetCount": 0
+                              },
+                              {
+                                "name": "Consulting",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Outsourcing",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Archive",
+                                "assetCount": 3
+                              },
+                              {
+                                "name": "Law \u0026 Accounting",
+                                "assetCount": 0
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Credentials",
+                            "assetCount": 3
+                          },
+                          {
+                            "name": "Case Studies",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "Insights",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Global Business Services",
+                                "assetCount": 2
+                              },
+                              {
+                                "name": "IT, Tech \u0026 Digital Services",
+                                "assetCount": 4
+                              },
+                              {
+                                "name": "Management \u0026 Strategy Consulting",
+                                "assetCount": 2
+                              },
+                              {
+                                "name": "BPO / RPO",
+                                "assetCount": 3
+                              },
+                              {
+                                "name": "Law Firms",
+                                "assetCount": 8
+                              },
+                              {
+                                "name": "Private Capital",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Search Strategies",
+                            "assetCount": 9
+                          },
+                          {
+                            "name": "Process Slides",
+                            "assetCount": 1
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Title pages, agendas, dividers",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Business Services",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "1. Partnering with RRA",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "2. Insights \u0026 role understanding",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "3. Proposed strategy \u0026 search process",
+                            "assetCount": 1
+                          },
+                          {
+                            "name": "4. Select relevant experience",
+                            "assetCount": 0,
+                            "folders": [
+                              {
+                                "name": "Creds",
+                                "assetCount": 1
+                              },
+                              {
+                                "name": "Case studies",
+                                "assetCount": 1
+                              }
+                            ]
+                          },
+                          {
+                            "name": "5. Appendix: Team, Sector, About RRA",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "**Full sample deck**",
+                            "assetCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Client-specific templates",
+                        "assetCount": 0,
+                        "folders": [
+                          {
+                            "name": "Deloitte",
+                            "assetCount": 0
+                          },
+                          {
+                            "name": "Accenture",
+                            "assetCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Software \u0026 Platforms",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 4
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Hardware \u0026 IOT",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Connectivity \u0026 Digital Infrastructure",
+                    "assetCount": 0,
+                    "folders": [
+                      {
+                        "name": "Practice Overview",
+                        "assetCount": 5
+                      },
+                      {
+                        "name": "Insights",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Case Studies",
+                        "assetCount": 2
+                      },
+                      {
+                        "name": "Credentials",
+                        "assetCount": 1
+                      },
+                      {
+                        "name": "Search Strategies",
+                        "assetCount": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Cyber \u0026 Security Software",
+                    "assetCount": 1
+                  },
+                  {
+                    "name": "AI Infrastructure",
+                    "assetCount": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Consultant Bios",
+            "assetCount": 629
+          },
+          {
+            "name": "Recess",
+            "assetCount": 0
+          },
+          {
+            "name": "Marketing",
+            "assetCount": 5
+          }
+        ]
+      }
+    ]
+  }
+]
